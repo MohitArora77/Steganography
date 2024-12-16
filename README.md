@@ -1,5 +1,4 @@
 # Final-year-steganography-Project
-steganography
 
 ![image](https://github.com/user-attachments/assets/5d574a3b-796f-4d9c-b1df-a156baba1729)
 
